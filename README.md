@@ -83,8 +83,8 @@ reg-doc-change-analyzer/
 
 # Screenshots
 
-![Alt text](/home/rushil/Desktop/zipp/images/Screenshot from 2025-06-08 12-57-04.png)
-![Alt text](/home/rushil/Desktop/zipp/images/Screenshot from 2025-06-08 13-13-46.png)
+![Change Detection UI](images/ui1.png)
+![Analysis Result UI](images/ui2.png)
 
 
 # Author
